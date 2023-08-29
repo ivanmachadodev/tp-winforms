@@ -1,0 +1,16 @@
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\bin\Debug\TPI Prog-Lab.exe.config
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\bin\Debug\TPI Prog-Lab.exe
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\bin\Debug\TPI Prog-Lab.pdb
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI Prog-Lab.csprojAssemblyReference.cache
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI_Prog_Lab.Properties.Resources.resources
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI Prog-Lab.csproj.GenerateResource.cache
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI Prog-Lab.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI Prog-Lab.exe
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI Prog-Lab.pdb
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI_Prog_Lab.fmrFabrica.resources
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\bin\Debug\es-AR\TPI Prog-Lab.resources.dll
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI_Prog_Lab.frmClientes.resources
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI_Prog_Lab.fmrFabrica.es-AR.resources
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\es-AR\TPI Prog-Lab.resources.dll
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI_Prog_Lab.frmAutomoviles.resources
+C:\Users\ivanm\Documents\Programacion UTN FRC\2° Cuatrimestre\Programación II\Visual Studio\TPI Prog-Lab\TPI Prog-Lab\obj\Debug\TPI_Prog_Lab.frmAutopartes.resources
